@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+FilmesApi/Migrations/20241113125753_ids nullos.cs
+FilmesApi/Migrations/20241113125753_ids nullos.Designer.cs
+FilmesApi/Migrations/20241113130837_Cinema e filme.cs
+FilmesApi/Migrations/20241113130837_Cinema e filme.Designer.cs
+FilmesApi/Migrations/20241113133526_Delete restrict.cs
+FilmesApi/Migrations/20241113133526_Delete restrict.Designer.cs
+FilmesApi/Migrations/20241113134706_Delete restrict2.cs
+FilmesApi/Migrations/20241113134706_Delete restrict2.Designer.cs
